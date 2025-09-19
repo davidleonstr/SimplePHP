@@ -1,0 +1,12 @@
+{
+    "name": "david/simplephp",
+    "authors": [
+        {
+            "name": "davidleonstr",
+            "email": "davidalfonsoleoncarmona@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}

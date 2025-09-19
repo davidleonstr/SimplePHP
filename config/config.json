@@ -1,0 +1,9 @@
+{
+    "postgres": {
+        "db": "cipher:db",
+        "user": "cipher:user",
+        "password": "cipher:password",
+        "host": "cipher:host",
+        "port": "cipher:port"
+    }
+}
